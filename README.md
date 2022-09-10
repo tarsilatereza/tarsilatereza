@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning C/C++
-- 👯 Follow Wonews (https://www.instagram.com/wonews_/)
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: She/Her/Ela/Dela
 ##
 
