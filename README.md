@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: She/Her/Ela/Dela
+- 🌱 I’m currently learning Python / 🌱 Atualmente estou estudando Python
+- 😄 Pronouns: She/Her / 😄 Pronomes: Ela/Dela 
+- 📧 Você pode me contatar em: tarsilaterezasantos@gmail.com
 ##
 
 <div align="center">
