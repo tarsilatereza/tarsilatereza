@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Python / 🌱 Atualmente estou estudando Python
 - 😄 Pronouns: She/Her / 😄 Pronomes: Ela/Dela 
-- 📧 Você pode me contatar em: tarsilaterezasantos@gmail.com
+- 📧 Você pode me contatar em: tarsilatereza@gmail.com
 ##
 
 <div align="center">
